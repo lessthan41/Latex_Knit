@@ -15,7 +15,7 @@ def main(title, author, date, subproblem_cnt):
 
 
 title = 'Ecometric Homework 3'
-author = 'B06208030 何承諭 \\\\ Department of Geography'
+author = 'B06208030 Cheng-Yu Ho \\\\ Department of Geography'
 date = 'October 2020'
 subproblem_cnt = [2, 3, 4, 1] # 每個 Problem 有幾個 sub-Problem
 
