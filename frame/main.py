@@ -14,10 +14,10 @@ def main(title, author, date, subproblem_cnt):
 
 
 
-title = 'Ecometric Homework 3'
+title = 'Machine Learning Homework 3'
 author = 'B06208030 Cheng-Yu Ho \\\\ Department of Geography'
-date = 'October 2020'
-subproblem_cnt = [2, 3, 4, 1] # 每個 Problem 有幾個 sub-Problem
+date = 'November 2020'
+subproblem_cnt = [1] * 20 # 每個 Problem 有幾個 sub-Problem
 
 if __name__ == '__main__':
     content = main(title, author, date, subproblem_cnt)
